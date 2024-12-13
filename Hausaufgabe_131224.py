@@ -1,5 +1,5 @@
 
-date = input('Input a date following the example - 2024.11.15: ')
+date = input('Input a date following the example - YYYY.MM.DD: ')
 
 print(f'Der Typ von date ist: {type(date)}')
 
