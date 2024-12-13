@@ -11,5 +11,7 @@ elif date >= '2024.12.23' and date <= '2025.01.02':
     print('Christmas vacations'),
 elif date == '2025.02.25':
     print(f'The end on Module 1'),
+elif date > '2025.11.25':
+    print(f'The course has ended')
 else: 
     print('A normal day of the course')
